@@ -1,0 +1,13 @@
+E:\5C# ASP WEB\Session 13 Labs\Session13_AssessableLab\bin\Debug\netcoreapp3.1\Session13_AssessableLab.exe
+E:\5C# ASP WEB\Session 13 Labs\Session13_AssessableLab\bin\Debug\netcoreapp3.1\Session13_AssessableLab.deps.json
+E:\5C# ASP WEB\Session 13 Labs\Session13_AssessableLab\bin\Debug\netcoreapp3.1\Session13_AssessableLab.runtimeconfig.json
+E:\5C# ASP WEB\Session 13 Labs\Session13_AssessableLab\bin\Debug\netcoreapp3.1\Session13_AssessableLab.runtimeconfig.dev.json
+E:\5C# ASP WEB\Session 13 Labs\Session13_AssessableLab\bin\Debug\netcoreapp3.1\Session13_AssessableLab.dll
+E:\5C# ASP WEB\Session 13 Labs\Session13_AssessableLab\bin\Debug\netcoreapp3.1\Session13_AssessableLab.pdb
+E:\5C# ASP WEB\Session 13 Labs\Session13_AssessableLab\obj\Debug\netcoreapp3.1\Session13_AssessableLab.csprojAssemblyReference.cache
+E:\5C# ASP WEB\Session 13 Labs\Session13_AssessableLab\obj\Debug\netcoreapp3.1\Session13_AssessableLab.AssemblyInfoInputs.cache
+E:\5C# ASP WEB\Session 13 Labs\Session13_AssessableLab\obj\Debug\netcoreapp3.1\Session13_AssessableLab.AssemblyInfo.cs
+E:\5C# ASP WEB\Session 13 Labs\Session13_AssessableLab\obj\Debug\netcoreapp3.1\Session13_AssessableLab.csproj.CoreCompileInputs.cache
+E:\5C# ASP WEB\Session 13 Labs\Session13_AssessableLab\obj\Debug\netcoreapp3.1\Session13_AssessableLab.dll
+E:\5C# ASP WEB\Session 13 Labs\Session13_AssessableLab\obj\Debug\netcoreapp3.1\Session13_AssessableLab.pdb
+E:\5C# ASP WEB\Session 13 Labs\Session13_AssessableLab\obj\Debug\netcoreapp3.1\Session13_AssessableLab.genruntimeconfig.cache
