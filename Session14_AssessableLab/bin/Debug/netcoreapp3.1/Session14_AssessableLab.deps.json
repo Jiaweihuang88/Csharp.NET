@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Session14_AssessableLab/1.0.0": {
+        "runtime": {
+          "Session14_AssessableLab.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Session14_AssessableLab/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
