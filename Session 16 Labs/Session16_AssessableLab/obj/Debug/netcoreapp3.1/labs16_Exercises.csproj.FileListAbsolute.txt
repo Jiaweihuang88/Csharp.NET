@@ -1,0 +1,13 @@
+E:\5C# ASP WEB\Session 16 Labs\Session16_AssessableLab\obj\Debug\netcoreapp3.1\labs16_Exercises.csprojAssemblyReference.cache
+E:\5C# ASP WEB\Session 16 Labs\Session16_AssessableLab\obj\Debug\netcoreapp3.1\labs16_Exercises.AssemblyInfoInputs.cache
+E:\5C# ASP WEB\Session 16 Labs\Session16_AssessableLab\obj\Debug\netcoreapp3.1\labs16_Exercises.AssemblyInfo.cs
+E:\5C# ASP WEB\Session 16 Labs\Session16_AssessableLab\obj\Debug\netcoreapp3.1\labs16_Exercises.csproj.CoreCompileInputs.cache
+E:\5C# ASP WEB\Session 16 Labs\Session16_AssessableLab\bin\Debug\netcoreapp3.1\labs16_Exercises.exe
+E:\5C# ASP WEB\Session 16 Labs\Session16_AssessableLab\bin\Debug\netcoreapp3.1\labs16_Exercises.deps.json
+E:\5C# ASP WEB\Session 16 Labs\Session16_AssessableLab\bin\Debug\netcoreapp3.1\labs16_Exercises.runtimeconfig.json
+E:\5C# ASP WEB\Session 16 Labs\Session16_AssessableLab\bin\Debug\netcoreapp3.1\labs16_Exercises.runtimeconfig.dev.json
+E:\5C# ASP WEB\Session 16 Labs\Session16_AssessableLab\bin\Debug\netcoreapp3.1\labs16_Exercises.dll
+E:\5C# ASP WEB\Session 16 Labs\Session16_AssessableLab\bin\Debug\netcoreapp3.1\labs16_Exercises.pdb
+E:\5C# ASP WEB\Session 16 Labs\Session16_AssessableLab\obj\Debug\netcoreapp3.1\labs16_Exercises.dll
+E:\5C# ASP WEB\Session 16 Labs\Session16_AssessableLab\obj\Debug\netcoreapp3.1\labs16_Exercises.pdb
+E:\5C# ASP WEB\Session 16 Labs\Session16_AssessableLab\obj\Debug\netcoreapp3.1\labs16_Exercises.genruntimeconfig.cache
